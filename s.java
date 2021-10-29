@@ -2,6 +2,7 @@ SFA21SCM25K
 SFA21SCM85L
 SFA21SCM33P
 <<<<<<< HEAD
+<<<<<<< HEAD
 SFA21SCM92G
 SFA21SCM83M
 SFA21SCM30B
@@ -15,3 +16,5 @@ MFA21SCM41S
 =======
 SFA21SCM83M
 >>>>>>> a37ca0c (Update s.java)
+=======
+>>>>>>> e807329 (Update s.java)
