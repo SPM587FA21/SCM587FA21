@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0e16d0c-4043-41d0-ac03-28a8e9f91315" name="Default Changelist" comment="Fixes #342. KFA21SCM70H last name added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20BikjvhcGszH4vluvO7vFCFuSi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Phase2_Report" />
+      <recent name="$PROJECT_DIR$/Phase1_Report" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0e16d0c-4043-41d0-ac03-28a8e9f91315" name="Default Changelist" comment="" />
+      <created>1635524526805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635524526805</updated>
+      <workItem from="1635524527982" duration="1243000" />
+      <workItem from="1635796676039" duration="600000" />
+      <workItem from="1635797400420" duration="1130000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fixes#174. KFA21SCM70H first name added">
+      <created>1635524573519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635524573519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixes #174. KFA21SCM70H first name added">
+      <created>1635525095959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635525095959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixes #174. KFA21SCM70H first name added">
+      <created>1635525227749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635525227749</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixes #174. KFA21SCM70H first name added">
+      <created>1635525400852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635525400852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixes #342. KFA21SCM70H last name added">
+      <created>1635797580472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635797580473</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixes #342. KFA21SCM70H last name added">
+      <created>1635797946247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635797946247</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixes#174. KFA21SCM70H first name added" />
+    <MESSAGE value="Fixes #174. KFA21SCM70H first name added" />
+    <MESSAGE value="Fixes #342. KFA21SCM70H last name added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes #342. KFA21SCM70H last name added" />
+  </component>
+</project>
