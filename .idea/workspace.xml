@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0e16d0c-4043-41d0-ac03-28a8e9f91315" name="Default Changelist" comment="Fixes #342. KFA21SCM70H last name added" />
+    <list default="true" id="b0e16d0c-4043-41d0-ac03-28a8e9f91315" name="Default Changelist" comment="Fixes #342. KFA21SCM70H last name added">
+      <change afterPath="$PROJECT_DIR$/.idea/SCM587FA21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -39,6 +45,7 @@
       <workItem from="1635524527982" duration="1243000" />
       <workItem from="1635796676039" duration="600000" />
       <workItem from="1635797400420" duration="1130000" />
+      <workItem from="1636135774177" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="Fixes#174. KFA21SCM70H first name added">
       <created>1635524573519</created>
